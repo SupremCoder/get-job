@@ -1,14 +1,3 @@
-/* 
-    PC - 1920 . 1366
-    Laptop - 1440px - macbook
-    1024 - netbuk -> planshet landscape
-    768 - planshet portrait
-    610 - raskladnoy
-    475 - 13 pro
-    490 - 13 pro max
-    375 - iphone 6
-    320 - iphone 5
-*/
 @media (max-width: 1024px) {
     .title.big {
         font-size: 56px;
